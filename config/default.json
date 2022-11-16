@@ -1,0 +1,4 @@
+{
+  "PORT": "1337",
+  "MONGO_URI": "mongodb+srv://drchey:drchey12345@vaccluster.7hfn5xi.mongodb.net/?retryWrites=true&w=majority"
+}
